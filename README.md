@@ -8,7 +8,7 @@ I enjoy solving complex problems, analyzing data, building dashboards, and desig
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 **Languages:** Python, SQL, Java  
 **Data & ML:** Pandas, NumPy, Scikit‑Learn, tinyML, GenAI, ML Pipelines  
@@ -20,7 +20,7 @@ I enjoy solving complex problems, analyzing data, building dashboards, and desig
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 🔹 1. AI‑Driven Data Classification (Python, Scikit‑Learn)
 A complete ML workflow that cleans, preprocesses, and classifies structured data using supervised learning algorithms.  
@@ -70,7 +70,7 @@ Analyzed network latency logs using SQL and Python to identify bottlenecks and r
 
 ---
 
-## 🎓 Certifications & Training
+## Certifications & Training
 
 - NVIDIA AI for All: Basic to GenAI Practice  
 - tinyML Deployment & Fundamentals — HarvardX  
@@ -85,7 +85,7 @@ Analyzed network latency logs using SQL and Python to identify bottlenecks and r
 
 ---
 
-## 🌍 About Me
+## About Me
 
 I’ve worked across Ireland, Nigeria, and the US, supporting enterprise systems, designing architectures, and delivering technical solutions.  
 I’m currently focused on:
@@ -100,7 +100,7 @@ I’m open to **global remote roles** in Data, AI, Cloud, or ML Engineering.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Email:** alajikilawrence@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/alajikilawrence/ 
