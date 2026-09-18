@@ -96,14 +96,14 @@ I’m currently focused on:
 - Cloud Automation  
 - tinyML & GenAI  
 
-I’m open to **remote US‑based roles** in Data, AI, Cloud, or ML Engineering.
+I’m open to **global remote roles** in Data, AI, Cloud, or ML Engineering.
 
 ---
 
 ## 📫 Contact
 
 **Email:** alajikilawrence@gmail.com  
-**LinkedIn:** *Add your link here*  
+**LinkedIn:** https://www.linkedin.com/in/alajikilawrence/ 
 **Location:** Ireland (open to global remote roles)
 
 ---
